@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Aakanksha6may <Aakanksha Kumari>
-  An aspiring computer science engineering undergrad, entrepreneur, and thinker.
+  An aspiring computer science engineering undergrad, and thinker.
+  
+  Highly analytical and detail-oriented professional with experience in data analysis and HR management. Skilled in data mining, statistical analysis, Python, Sql, and visualization. Adept at managing employee relations, recruitment, and talent management. Proven ability to develop and implement effective HR policies and procedures. Strong communication and interpersonal skills.
 
 I love working on projects! What I love about my major is that the majority of my work, if not all of it, is completely team-oriented, which has allowed me to grow in my perspectives and development as an aspiring software engineer and entrepreneur. Hence, since attending my college, I have found immense interest in participating in hackathons at diverse universities. Though, Business administration , operations and human management will always be my personal favorite.
 
