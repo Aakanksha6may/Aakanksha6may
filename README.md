@@ -11,6 +11,6 @@
 
 📫 **How to reach me:**  
 📩 Email: aakankshakumari6may@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/aakankshasinghofficial) | [GitHub](https://github.com/Aakanksha-Singh)  
+🔗 [LinkedIn](https://linkedin.com/in/aakankshasinghofficial) | [GitHub](https://github.com/Aakanksha6may)  
 
 🚀 **Let’s build something amazing!**  
