@@ -16,6 +16,12 @@ I love solving real-world problems through technology and enjoy working with **F
 🔹 **[E-Commerce Product Review System](#)** – A full-stack app for product reviews.  
 🔹 **[Stock Price Prediction Model](#)** – ML-powered stock price forecasting.  
 
+## 📊 GitHub Stats  
+![Aakanksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aakanksha6may&show_icons=true&theme=radical)
+
+## 💡 Top Technologies I Use  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakanksha6may&layout=compact&theme=radical)
+
 ## 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aakankshasinghofficial)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Aakanksha6may)  
