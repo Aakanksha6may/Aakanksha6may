@@ -67,16 +67,29 @@ I combine backend development, data-driven systems, and research to solve real-w
 I’m open to:
 - 🤝 Tech collaborations & open-source contributions  
 - 🧪 Research projects in NLP, Data Science, and Software Engineering  
-- 👩‍💻 Backend Engineering, Data Science, NLP-based roles, and remote developer opportunities  
+- 👩‍💻 Software Engineering, Backend Engineering, Data Science, NLP-based roles, and developer opportunities  
 - 🗣️ Content co-creation, mentoring, and hackathons  
 
 ---
 
 ## 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aakankshasinghofficial)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aakankshasharmaofficial)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Aakanksha6may)  
+[![Medium](https://img.shields.io/badge/Medium-Read-black?style=flat&logo=medium)](https://medium.com/@aakankshakumari6may)  
+[![Hashnode](https://img.shields.io/badge/Hashnode-Blog-blue?style=flat&logo=hashnode)](https://hashnode.com/@aakankshasharma)  
+[![Dev.to](https://img.shields.io/badge/Dev.to-Articles-black?style=flat&logo=dev.to)](https://dev.to/aakankshasharma)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-Data-blue?style=flat&logo=kaggle)](https://www.kaggle.com/akku6may)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-Code-25A162?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/aakanksha065)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?style=flat&logo=leetcode)](https://leetcode.com/u/aakankshakumari6may/)  
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-Help-orange?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/15781218/aakanksha-sharma)  
+[![Wix](https://img.shields.io/badge/Wix-Website-000?style=flat&logo=wix)](https://aakankshakumari6ma.wixsite.com/aakankshascribbles)  
+[![Carrd](https://img.shields.io/badge/Carrd-Portfolio-1E1E1E?style=flat&logo=carrd)](https://aakankshasharma.carrd.co/)  
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://x.com/Aakanksha6may)  
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube)](https://www.youtube.com/@AakankshaSharma-065)  
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/phoenix.065/)  
+[![Pinterest](https://img.shields.io/badge/Pinterest-Boards-BD081C?style=flat&logo=pinterest&logoColor=white)](https://in.pinterest.com/phoenix065/)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:aakankshakumari6may@gmail.com)  
-[![Blog](https://img.shields.io/badge/Blog-Visit-blue?style=flat&logo=wix)](https://aakankshakumari6ma.wixsite.com/aakankshascribbles/blog)
 
 ---
 
